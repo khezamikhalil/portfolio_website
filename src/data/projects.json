@@ -1,0 +1,58 @@
+[
+  {
+    "title": "Implementing Odoo ERP for Company Management",
+    "imageSrc": "projects/project.png",
+    "description": "This project involved implementing the Odoo ERP system for our company, focusing on streamlining operations and enhancing efficiency.",
+    "skills": ["Odoo", "ERP Systems"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Java Quiz Application",
+    "imageSrc": "projects/project.png",
+    "description": "An interactive Java application designed to test users' knowledge about Java through multiple-choice questions, providing immediate feedback and tracking results.",
+    "skills": ["Java", "Swing"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Data Mart for Employee Performance Tracking in a SME",
+    "imageSrc": "projects/project.png",
+    "description": "A project to design and implement a data mart for tracking employee performance in an SME, applying theoretical knowledge from a Data Warehouse course.",
+    "skills": ["Python", "Express.js", "Node.js"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Netflix Clone Project",
+    "imageSrc": "projects/project.png",
+    "description": "This project aims to create a functional clone of Netflix, including category navigation, content search, and video playback, providing an immersive experience.",
+    "skills": ["Python", "HTML", "CSS", "JavaScript", "React", "GitHub", "MySQL"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Machine Learning Project: Unveiling Data-Driven Insights",
+    "imageSrc": "projects/project.png",
+    "description": "This project delves into descriptive data analysis to unveil crucial insights, guiding informed strategic decisions and effective actions.",
+    "skills": ["Machine Learning", "Data Analysis"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Development of a Web Weather Application",
+    "imageSrc": "projects/project.png",
+    "description": "A project to create a web-based weather application for Tunisia, completed as part of a Web Programming course.",
+    "skills": ["HTML", "CSS", "JavaScript"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Cobol Project: Hierarchical Management of Salary Data",
+    "imageSrc": "projects/project.png",
+    "description": "A comprehensive COBOL program for managing salary data, including experience calculation, team count, leader identification, and anomaly handling.",
+    "skills": ["COBOL", "IBM Personal Communications"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  }
+]

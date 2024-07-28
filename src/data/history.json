@@ -1,0 +1,11 @@
+[
+  {
+    "role": "Business Intelligence",
+    "organisation": "OACA",
+    "startDate": "Fev 2023",
+    "endDate": "Mai 2023",
+    "experiences": ["Développement architecture Data Warehouse.", "Conception structure Data Warehouse.", "ETL.", "Mise en place OLAP.", "Déploiement rapports analytiques locaux.", "Amélioration décisionnelle de 30%."],
+    "imageSrc": "history/OACA.jpg"
+  }
+  
+]
